@@ -1,0 +1,16 @@
+# Pastas de build
+/target/
+
+# Configurações de IDEs
+/.idea/
+/.vscode/
+
+# Arquivos temporários e logs
+*.log
+*.tmp
+*.swp
+*.class
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db

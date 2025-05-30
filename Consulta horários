@@ -1,0 +1,11 @@
+SELECT 
+    r.id AS room_id,
+    r.name AS room_name,
+    cs.day_of_week,
+    cs.start_time,
+    cs.end_time
+FROM 
+    ROOM r
+JOIN CLASS_SCHEDULE cs ON r.id = cs.room_id
+ORDER BY 
+    r.id, cs.day_of_week, cs.start_time;

@@ -1,0 +1,6 @@
+com\l2code\packaging\service\EmpacotamentoService.class
+com\l2code\packaging\controller\EmpacotamentoController.class
+com\l2code\packaging\dto\CaixaDTO.class
+com\l2code\packaging\dto\PedidoDTO.class
+com\l2code\packaging\dto\ProdutoDTO.class
+com\l2code\packaging\PackagingApiApplication.class
